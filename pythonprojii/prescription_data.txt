@@ -1,0 +1,32 @@
+Name of Tablet: 
+Reference No: 
+Dose: 
+No of Tablets: 
+Lot: 
+Issue Date: 
+Expiry Date: 
+Daily Dose: 
+Side Effect: 
+Further Information: 
+Blood Pressure: 
+Patient Name: 
+Patient ID: 
+Patient Address: 
+Patient Information: 
+-------------------------------
+Name of Tablet: 
+Reference No: 
+Dose: 
+No of Tablets: 
+Lot: 
+Issue Date: 
+Expiry Date: 
+Daily Dose: 
+Side Effect: 
+Further Information: 
+Blood Pressure: 
+Patient Name: 
+Patient ID: 
+Patient Address: 
+Patient Information: 
+-------------------------------
